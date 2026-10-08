@@ -1,0 +1,3 @@
+Sur le site de vente des électros de Home-Dépots, «Compatible avec les technologies intelligentes Laveuses et sécheuses» (24 Septembre 2026) : https://www.homedepot.ca/fr/accueil/categories/electromenagers/laveuses-et-secheuses/f/compatible-avec-les-technologies-intelligentes/6f9-1gho?msockid=0dcbe8f5c4aa63ab1bc2ff34c5f7622c
+
+Site avec mots en anglais, Internet of Things, Comfort and home automation, Appliance, Washer-dryer : https://www.diyhappy.com/best-smart-washers-and-dryers/

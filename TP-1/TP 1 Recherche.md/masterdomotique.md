@@ -1,0 +1,3 @@
+Sur le site masterdomotique.com, «Store intérieur connecté : guide complet pour choisir et installer votre système intelligent», édité par Camille Rousseau, (25 Mai 2026) : https://www.masterdomotique.com/equipements-connectes/volets-et-stores/store-interieur-connecte/
+
+Site avec mots en anglais, Internet of Things, Comfort and home automation, Vertical blind : https://ca.helloryse.com/blogs/home/true-smart-living-how-to-automate-your-blinds-with-sensors-and-apps?shpxid=9c1b0ecc-18a8-48b9-9e09-85bc3fa741c5

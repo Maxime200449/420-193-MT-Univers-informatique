@@ -1,0 +1,3 @@
+Le site le comparatif aspirateur, «Aspirateur Connecté WiFi : App, Commande Vocale et Domotique» édité par Empyreum SAS. partenaire de Amazon (2026) : https://comparatif-aspirateur.fr/articles/guide-aspirateur-connecte
+
+Site avec mots en anglais, Internet of Things, Comfort and home automation, Appliance, Vacuum cleaner (2026) : https://www.oneclearwinner.ca/product/what-are-the-best-robot-vacuum-cleaners/?msclkid=aa2a2f2ba1191e633d1645ee19213d1d
