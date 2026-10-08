@@ -1,0 +1,3 @@
+Sur le site Futura-science.com, «Les 4 meilleures serrures connectées 2026 - serrure connectée test & comparatif», édité par Caroline Kastler, le 6 Aout 2026 : https://www.futura-sciences.com/conso/comparatifs/meilleure-serrure-connectee-comparatif/
+
+Site trouver avec mots en anglais, Internet of Things, Security, Locks : https://www.verkada.com/l/cloud-access-control/?utm_source=bing&utm_medium=search&utm_campaign=701Uu00000dt6fvIAA&utm_content=LP-NonTM-US-Access-Controls&utm_term=wireless%20access%20control%20locks&msclkid=c595b1c8b7351b037df8db0c90a53617

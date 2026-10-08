@@ -1,0 +1,3 @@
+Site Somfy.fr,«Domotique et volet roulant : on vous dit tout sur le volet intelligent», (3 Juin 2026) : https://www.somfy.fr/idees-et-projets/articles/domotique-et-volet-intelligent
+
+Site avec mots en anglais, Internet of Things, Comfort and home automation, Shutter : https://www.blindstogo.ca/shutters/?gclid=&msclkid=9acf22295acb118b368848ed18b816d9&utm_source=bing&utm_medium=cpc&utm_campaign=B%2BMontreal_qc_en_generic&utm_term=shutters&utm_content=generic_shutters

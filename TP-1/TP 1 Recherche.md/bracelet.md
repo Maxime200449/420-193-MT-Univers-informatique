@@ -1,0 +1,3 @@
+Site de vente de montres intelligentes de Garmin (24 Septembre 2026) : https://www.garmin.com/fr-CA/blog/fitness/cirqa-smart-band-le-bracelet-connecte-sport-sante-de-garmin/
+
+Site trouver avec mots anglais, Internet of Things, Health and Sport, Bracelet and watches of activities : https://www.apple.com/ca/watch/?afid=p240%7Cbi~cmp-494348208~adg-1256743176600781~ad-78546584927012_kwd-78546875439383%3Aloc-32~dev-c~ext-~prd-~nt-search~crid-&cid=wwa-ca-kwbi-watch-category_watch-category_fitness-category_watch_fitness_q426_090926-2026_CAEN_Category_Watch-Fitness-
