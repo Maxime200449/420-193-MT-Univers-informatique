@@ -119,10 +119,7 @@ Expérience
 3 à 5 ans
 
 [Nombre de postes 1][1.2]
-
 ===============================================================================================================================
-
-
 Page accueil de Service Ultratronic inc.
 
 Assemblage électronique
@@ -260,7 +257,7 @@ Proportion de salariés qui ne sont pas en mesure de communiquer en français au
 
 
 ================================================================================================================================
-[##Points demandés Partie B##][2]
+[##Points demandés Partie B, Collecte de données##][2]
 
 o	Nom de l’entreprise et, s’il y a lieu, son logo;
 
@@ -300,7 +297,7 @@ o	Autres (photos, politiques de sécurité, de santé et d’environnement, etc.
 
 •	2 = Informations de l’employeur (voir précédemment le numéro 2 de la Partie B Collecte de données) 
 
-•	3 = . 1 fonctions, .2 tâches ou responsabilités
+•	3 = .1 fonctions, .2 tâches ou responsabilités
 
 •	4 = .1 matériel, .2 outils, .3 logiciels, .4 méthodes et .5 techniques 
 

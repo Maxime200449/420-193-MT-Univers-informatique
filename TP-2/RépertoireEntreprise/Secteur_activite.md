@@ -25,7 +25,6 @@ L’offre unique d’OpSens est basée sur la profondeur et sur l’ampleur de l
 Dans chaque action que nous entreprenons, nous adhérerons à nos valeurs directrices. Ces valeurs incarnent l’esprit de notre équipe et la qualité de nos produits. Ils sont le fondement de notre engagement envers l’excellence ainsi que de notre dévouement à faire la différence.
 
 ======================================================================================================================
-
 La compagnie Opsens se spécialise dans: 
 
 - l'amélioration du traitement des maladies cardiovasculaires par la mesure de pression optique miniature.
@@ -35,9 +34,7 @@ La compagnie Opsens se spécialise dans:
 - La fournitture d'une large gamme de capteurs et de conditionneurs de signaux à fibre optique pour la mesure de la température, de la pression, de la déformation et du déplacement, sur la base de brevets exclusifs.
 
 - Les domaines des sciences de la vie, de l’énergie, de la défense et de l’aérospatiale, de la géotechnique, du génie civil, des laboratoires scientifiques et dans de nombreux autres marchés.
-
 ======================================================================================================================
-
 ##Division médical- produits principaux##
 
 Technologie guidée par capteur
@@ -60,9 +57,7 @@ Améliorer l’efficacité des interventions en éliminant l’accès veineux, e
 Haemonetics OptoMonitor
 Système OptoMonitor®
 Le système OptoMonitor® offre une variété de solutions pour vous aider à gérer toutes les mesures directement à la table d’intervention ou en les intégrant dans votre système d’hémodynamique.
-
 ======================================================================================================================
-
 ##Divison de produits d 'application industrielle##
 
 - Capteurs à fibre optique pour des applications industrielles
@@ -92,7 +87,6 @@ Mesure fiable des niveaux de liquide
 - Boulons instrumentés à fibre optique
 Boulons avec capteur optique intégré
 
-
 Opsens font des Applications pour les secteurs:
 
 - Énergie
@@ -100,17 +94,12 @@ Opsens font des Applications pour les secteurs:
 - Industriels & Laboratoires
 - Surveillance des infrastructures
 - Géotechniques
-
-
 - Électronique de puissance et semi-conducteur
 
 Au sujet d'Opsens Solutions
 Opsens Solutions offre des solutions clés de détection de température, de pression, de contraintes/déformation, de déplacement linéaire, de force et de charge pour les domaines suivants : les forces armées, la défense et l’aérospatiale, la géotechnique, l’ingénierie civile, la surveillance de l’état des structures, la chimie assistée par micro-ondes, la recherche et l’emballage alimentaire, l’industrie générale et les laboratoires.
-
-
 ======================================================================================================================
-
-##Yahoo##
+##Yahoo finance##
 
 Yahoo finance, Site Yahoo finance, le 10 Octobre 2026 : « https://finance.yahoo.com/quote/HAE/ »
 
@@ -118,14 +107,15 @@ Secteur d'activité de Haemonetics (Opsens est une filiale de Haemonetics)
 
 Haemonetics Corporation Overview
 Haemonetics Corporation, a medical technology company, provides a suite of hospital technologies solutions. The company operates through Plasma, Blood Center, and Hospital segments. It provides automated plasma collection systems, donor management software, and supporting software solutions, such as NexSys PCS plasmapheresis equipment system and related disposables and solutions, as well as integrated information technology platforms for plasma customers to manage their donors, operations, and supply chain; and NexLynk DMS donor management system and Donor360 tools. The company also offers treatment in electrophysiology, critical care, neurocritical care, trauma, burn surgery, spine surgery, and cancer surgery; SavvyWire, a sensor-guided 3-in-1 guidewire for TAVR procedures; and OptoWire, a pressure guidewire that measures fractional flow reserve and diastolic pressure ratio, as well as fiber optic sensor solutions used in medical devices and other critical industrial applications. In addition, it provides hospital products comprising TEG 6s system, smallest cartridge-based viscoelastic analyzer that provides a comprehensive assessment of a patient's overall hemostasis; and TEG Manager software, which connects various TEG analyzers throughout the hospital, providing clinicians remote access to active and historical test results that inform treatment decisions. Further, the company offers Cell Saver Elite +, an autologous blood recovery system for cardiovascular, orthopedic, trauma, transplant, vascular, obstetrical, and gynecological surgeries;vascular closure products comprise VASCADE 5F, VASCADE 6/7F, VASCADE MVP XL, and VASCADE MVP, a technology platform which offers catheter-based delivery system and leverages the natural clot-inducing properties of collagen; and transfusion management solutions. It sells its products through direct sales force and independent distributors. The company was founded in 1971 and is headquartered in Boston, Massachusetts.
-
 ======================================================================================================================
-
 ##La base de données sur les brevets cannadiens##
 
- Site de propriété intellectuelle du Canada : « https://ised-isde.canada.ca/site/office-propriete-intellectuelle-canada/fr/brevets/demande-brevet-examen-brevets/base-donnees-brevets-canadiens-aide/base-donnees-brevets-canadiens-aide-recherche »
+Site de propriété intellectuelle du Canada : « https://ised-isde.canada.ca/site/office-propriete-intellectuelle-canada/fr/brevets/demande-brevet-examen-brevets/base-donnees-brevets-canadiens-aide/base-donnees-brevets-canadiens-aide-recherche »
 
 Recherche et Innovation 
+##La base de données sur les brevets cannadiens## 
+
+Site de propriété intellectuelle du Canada, le 10 Octobre 2026 : « https://ised-isde.canada.ca/site/office-propriete-intellectuelle-canada/fr/brevets/demande-brevet-examen-brevets/base-donnees-brevets-canadiens-aide/base-donnees-brevets-canadiens-aide-recherche »
 
 Opsens Solutions a obtenu plusieurs brevets liés à des technologies innovantes, notamment :
 Le brevet n° 10,082,437 pour un capteur de pression à fibre optique, qui résout des problèmes de dérive dans des environnements à haute pression. 
@@ -138,11 +128,8 @@ Le OEM-FLS, un conditionneur de signal utilisant la technologie IPLB pour la mes
 
 Le OEM-MNP, un conditionneur de signal basé sur la technologie WLPI pour des capteurs de pression optique. 
 
-
-es brevets témoignent de l'innovation et de la technologie développée par Opsens dans divers domaines, y compris l'aéronautique, la santé et l'industrie.
-
+Les brevets témoignent de l'innovation et de la technologie développée par Opsens dans divers domaines, y compris l'aéronautique, la santé et l'industrie.
 ================================================================================================================================
-
 ##Sur le site de Simmilarweb##
 
 Site de similarweb, date du 19 Octobre : «https://www.similarweb.com/fr/company/haemonetics.com/#signals»
