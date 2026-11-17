@@ -6,57 +6,57 @@ Un gestionnaire de projet est un professionnel qui planifie, coordonne et pilote
 Définition générale
 Le gestionnaire de projet (souvent assimilé au chef de projet) est responsable de la mise en place, du suivi et de la réussite d’un projet. Il agit comme un chef d’orchestre entre la direction, les équipes et les parties prenantes. 
 
-bubbleplan.net
+SITE : bubbleplan.net
 
 Missions principales
 Réaliser des études de marché, enquêtes et analyses pour définir le projet. 
 
-Orientation.com
+SITE : Orientation.com
 
 Coordonner les acteurs impliqués et animer l’équipe projet. 
 
-bubbleplan.net
+SITE : bubbleplan.net
 
 Élaborer le cahier des charges, les spécifications et le planning (diagramme de Gantt, découpage des tâches). 
 
-mirvet-mtimet.com
+SITE : mirvet-mtimet.com
 
 Gérer les ressources, les risques et le budget. 
 
-mirvet-mtimet.com
+SITE : mirvet-mtimet.com
 
 Assurer le suivi, le reporting et la livraison finale du projet. 
 
-mirvet-mtimet.com
+SITE : mirvet-mtimet.com
 
 Compétences requises
 Excellente communication, écoute, négociation. 
 
-bubbleplan.net
+SITE : bubbleplan.net
 
 Gestion du stress et capacité à résoudre les imprévus. 
 
-bubbleplan.net
+SITE : bubbleplan.net
 
 Maîtrise des méthodologies (PMI, Agile, PMP). 
 
-mirvet-mtimet.com
+SITE : mirvet-mtimet.com
 
 Compétences techniques selon le secteur (informatique, marketing, industrie…). 
 
-bubbleplan.net
+SITE : bubbleplan.net
 
 Formations possibles
 Master management de projet
 Master conception de projet numérique
 Mastère spécialisé (supply chain, management industriel, etc.) 
 
-Orientation.com
+SITE : Orientation.com
 
 Salaire
 En France, un gestionnaire de projet gagne généralement entre 2 500 € et 4 800 € brut par mois, avec une moyenne autour de 40 000 € brut annuels pour un chef de projet. 
 
-Orientation.com
+SITE : Orientation.com
 
 Variantes du métier
 
@@ -68,3 +68,6 @@ Product Manager (selon les organisations)
 bubbleplan.net
 bubbleplan.net
 Le métier de gestionnaire de projet est aujourd’hui central dans les organisations, car il garantit la réussite des projets en conciliant contraintes techniques, humaines et organisationnelles.
+
+
+Voir l'[entrevue](TP-3/entrevue.md)
