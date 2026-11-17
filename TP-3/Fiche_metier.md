@@ -70,4 +70,4 @@ bubbleplan.net
 Le métier de gestionnaire de projet est aujourd’hui central dans les organisations, car il garantit la réussite des projets en conciliant contraintes techniques, humaines et organisationnelles.
 
 
-Voir l'[entrevue](TP-3/entrevue.md)
+Voir l'[entrevue](TP-3/Entrevue.md)

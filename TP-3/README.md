@@ -27,7 +27,7 @@
 « Identification »
 Maxime Auclair-Bouchard
 
-La profession choisie: [Gestion de programme](/TP-3/fiche_metier.md)
+La profession choisie: [Gestion de programme](/TP-3/Fiche_metier.md)
 
 
 
