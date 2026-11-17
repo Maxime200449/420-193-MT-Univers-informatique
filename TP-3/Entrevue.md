@@ -1,4 +1,4 @@
-#Tâche 1#
+#  Tâche 1 #
 
 Nom du métier: Gestionnaire de Programme
 
@@ -208,7 +208,7 @@ Recherche supplémentaire demandé sur la sous-traitance
 |FOKKER SERVICES AMERICA (DBA) AEROTRON AIRPOWER INC.|	456 AEROTRON PARKWAY|	LAGRANGE|	GA|	USA	|138797|	E-MAINTENANCE ORGANIZATION|
 
 
-En tous 3026 sosu-traitant autorisés.
+En tous 3026 sous-traitants autorisés.
 
 
-M. Ledieu cherche à me faire familliariser avec el site de Bombardier...
+M. Ledieu cherche à me faire familliariser avec le site de Bombardier...

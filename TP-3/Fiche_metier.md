@@ -1,6 +1,6 @@
 
 
--- Ma recherche sur la description d'emploi sur Google
+# -- Ma recherche sur la description d'emploi sur **Google** #
 
 Un gestionnaire de projet est un professionnel qui planifie, coordonne et pilote toutes les phases d’un projet, du cadrage à la livraison, en respectant délais, budget et qualité. En France, son salaire moyen se situe entre 2 500 € et 4 800 € brut par mois.
 Définition générale
